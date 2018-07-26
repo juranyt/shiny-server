@@ -1,3 +1,4 @@
+.libPaths( c( .libPaths(), "/home/jirik/R/x86_64-pc-linux-gnu-library/3.4") )
 library(xlsx)
 library(shiny)
 library(DT)
